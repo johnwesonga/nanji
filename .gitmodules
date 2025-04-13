@@ -6,4 +6,4 @@
 	url = https://github.com/theNewDynamic/gohugo-theme-ananke.git
 [submodule "themes/hugo-split-theme"]
 	path = themes/hugo-split-theme
-	url = https://github.com/escalate/hugo-split-theme.gitt
+	url = https://github.com/escalate/hugo-split-theme.git
