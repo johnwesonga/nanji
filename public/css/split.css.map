@@ -1,7 +1,7 @@
 {
 	"version": 3,
 	"file": "split.css",
-	"sourceRoot": "/Users/johnwesonga/projects/hugo-sites/quickstart",
+	"sourceRoot": "/Users/johnwesonga/projects/hugo-sites/nanji",
 	"sources": [
 		"themes/hugo-split-theme/assets/scss/split.scss",
 		"themes/hugo-split-theme/assets/scss/_normalize.scss",

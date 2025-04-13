@@ -21,15 +21,6 @@ position = "center center"
 heading = "Connect"
 
 [[params.links.list1.link]]
-text = "Blog"
+text = "Instagram"
 url = "#"
-new_tab = true # new tab
-
-[[params.links.list1.link]]
-text = "Email"
-url = "#"
-new_tab = false # Default, open at same tab
-
-[[params.links.list1.link]]
-text = "Newsletter"
-url = "#"
+new_tab = true     # new tab
