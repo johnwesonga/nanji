@@ -1,6 +1,6 @@
 +++
 #title = "Nanjala Antonina"
-tagline = "Nanjala Antonina"
+tagline = "Nanjala Antonia"
 +++
 
 Nanjala is a dedicated pianist studying under
