@@ -1,6 +1,6 @@
-baseURL = 'https://nanjalaantonina.com/'
+baseURL = 'https://nanjalaantonia.com/'
 languageCode = 'en-us'
-title = 'Nanjala Antonina'
+title = 'Nanjala Antonia'
 #theme = 'ananke'
 theme = "hugo-split-theme"
 

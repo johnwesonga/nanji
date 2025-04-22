@@ -13,14 +13,11 @@ Grades 1-8 in her foundational years, Nanjala
 continues to refine her artistry through both
 performance and study.
 
-Her musical journey has been profoundly shaped
-by the women who have guided and influenced her.
-She has had the privilege of participating in
-masterclasses with Anna Magdalena Kokits and
-Chantal Balestri and studying under the mentorship
-of Winnie Mureithi, Hannah Emmrich, and
+Her musical journey has been profoundly shapedby the women who have guided and influenced her.
+She has had the privilege of participating in masterclasses with Anna Magdalena Kokits and
+Chantal Balestri and studying under the mentorship of Winnie Mureithi, Hannah Emmrich, and
 Younkyung Kim. Each of these women brings a unique, nuanced approach to music-
-making, and their influence can be heard in Nanjala&#39;s own performances, which draw
+making, and their influence can be heard in Nanjala's own performances, which draw
 upon an intimate, sensitive interpretation of sound.
 
 Through her concept of ‘sonic séance,’ Nanjala strives to create a space where both
